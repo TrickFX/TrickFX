@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**TrickFX/TrickFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu me chamo Antonio Kauã! 👋
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrickFX&count_private=true&hide_title=true&hide=issues,stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.
+
+📫 Como entrar em contato comigo:
+
+- Discord: Trick#1293
+
+# 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauabatista/)

@@ -27,5 +27,6 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 [![outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kauabatista545@hotmail.com)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericksantos12/ericksantos12/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ericksantos12/ericksantos12/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrickFX/TrickFX/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/TrickFX/TrickFX/output/github-snake.svg">
+</picture>

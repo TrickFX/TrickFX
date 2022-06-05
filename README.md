@@ -15,7 +15,7 @@
 </picture>
 
 <br>
-Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Desenvolvimento de Software Multiplataforma
+Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Universidade Paulista
 
 </div>
 

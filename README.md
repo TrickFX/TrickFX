@@ -1,4 +1,4 @@
-# Olá, eu me chamo Erick! 👋
+# Olá, eu me chamo Kauã! 👋
 
 
 ## 👨‍💻 Sobre mim

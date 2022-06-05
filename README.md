@@ -6,7 +6,7 @@
 <div align="center">
 
 <picture>
-    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars">
+    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TrickFX&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TrickFX&show_icons=true&include_all_commits=true&hide=stars">
 </picture>
 <picture>

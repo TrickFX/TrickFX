@@ -10,7 +10,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TrickFX&show_icons=true&include_all_commits=true&hide=stars">
 </picture>
 <picture>
-    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=github_dark">
+    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TrickFX&layout=compact&langs_count=7&theme=github_dark">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrickFX&layout=compact&langs_count=7">
 </picture>
 

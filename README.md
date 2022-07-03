@@ -15,7 +15,7 @@
 </picture>
 
 <br>
-Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Análise e Desenvolvimento de Sistemas
+Atualmente trabalhando como Software Quality Assurance. Estou no segundo semestre em Análise e Desenvolvimento de Sistemas.
 
 </div>
 

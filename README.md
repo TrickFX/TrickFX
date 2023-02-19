@@ -23,9 +23,7 @@ Estou no terceiro semestre em Análise e Desenvolvimento de Sistemas e tenho gra
 
  #
 ## 🔗 Links
-[![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kauabatista545)
 [![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauabatista/)
-[![instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua.batista545/)
 [![outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kauabatista545@hotmail.com)
 
 <picture>

@@ -15,10 +15,7 @@
 </picture>
 
 <br>
-Atualmente estou atuando na área de Tecnologia da Informação, especificamente na área de QA, visando buscar soluções e tratamentos para sistemas bancários de crédito, integrado ao time de Controle de Qualidade.
-
-Estou no terceiro semestre em Análise e Desenvolvimento de Sistemas e tenho grandes expectativas de evoluir profissionalmente e seguir na carreira de desenvolvimento.
-
+Atualmente estou atuando na área de Tecnologia da Informação, visando buscar soluções e tratamentos para sistemas bancários de crédito, integrado ao time de Controle de Qualidade.
 </div>
 
 ## 🧐 Languages and Tools

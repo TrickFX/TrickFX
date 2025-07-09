@@ -2,7 +2,6 @@
 
 <h1 align="center">Seja bem vindo(a) ao meu perfil.</h1>
 
-<br>
 <h2 align="center">Sobre</h2>
 
 Desenvolvedor de Software com mais de 3 anos de experiência em programação e qualidade de software no setor financeiro.

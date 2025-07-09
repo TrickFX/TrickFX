@@ -5,7 +5,7 @@
 <br>
 <h2 align="center">Sobre</h2>
 
-Me chamo Kauã e sou um profissional dedicado com 2 anos de experiência em controle de qualidade de software (QA) e alguns meses de experiência em desenvolvimento com .NET. Atualmente, estou me especializando em Arquitetura de Sistemas na FIAP, buscando continuamente aprimorar minhas habilidades e conhecimentos.
+Desenvolvedor de Software com mais de 3 anos de experiência em programação e qualidade de software no setor financeiro.
 
 <h2 align="center">Tecnologias</h2>
 <div align="center">
